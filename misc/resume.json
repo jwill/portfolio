@@ -1,0 +1,120 @@
+{
+  "basics": {
+    "name": "James Williams",
+    "label": "",
+    "picture": "",
+    "email": "James.L.Williams@gmail.com",
+    "phone": "(650) 335-5583",
+    "website": "https://jameswilliams.be/blog",
+    "summary": "",
+    "location": {
+      "address": "",
+      "postalCode": "CA 94043",
+      "city": "Mountain View",
+      "countryCode": "US",
+      "region": "California"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "ecspike",
+        "url": "http://twitter.com/ecspike"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "jwill",
+        "url": "http://linkedin.com/in/jwill"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Udacity",
+      "position": "Course Developer - Android / Web",
+      "website": "http://udacity.com",
+      "startDate": "2014-04-14",
+      "summary": "Working with subject matter experts to create programming courses in Android and Web development.",
+      "highlights": [
+        "Developing Android Apps (ud853) - 179,183 Students",
+        "JavaScript Basics (ud804) - 51,437 Students",
+        "HTML5 Canvas (ud292) - 8,850 Students"
+      ]
+    },
+    {
+      "company": "InformIT/Pearson Education",
+      "position": "Contributing Author",
+      "website": "http://www.informit.com/authors/bio/54b28a2c-3f1a-47fc-ad64-360984d9757a",
+      "startDate": "2011-08-01",
+      "endDate": "2013-08-30",
+      "summary": "",
+      "highlights": [
+        "Wrote programming tutorial articles on Java, gaming, mobile development, and HTML5."
+      ]
+    },
+    {
+      "company": "Rearden Commerce",
+      "position": "Senior Software Engineer - UI",
+      "website": "",
+      "startDate": "2012-01-01",
+      "endDate": "2012-07-30",
+      "summary": "",
+      "highlights": [
+        "Wrote HTML, CSS, and JavaScript to interact with Rearden’s Travel APIs.",
+        "Wrote Java server-side middeware to consume and transform backend services."
+      ]
+    },
+    {
+    "company": "BT Americas(British Telecom)",
+    "position": "Senior Software Engineer",
+    "website": "",
+    "startDate": "2009-08-01",
+    "endDate": "2011-03-30",
+    "summary": "",
+    "highlights": [
+      "Created all dev assets for BT’s Google Wave launch.",
+      "Created prototype apps in HTML/JS, Java, and Objective-C",
+      "Maintained internal Android applications"
+    ]
+  }],
+  "volunteer": [],
+  "education": [{
+    "institution": "Nova Southeastern University",
+    "area": "Computer Science",
+    "studyType": "Master of Science",
+    "startDate": "2005-09-01",
+    "endDate": "2013-08-31",
+    "gpa": "",
+    "courses": []
+  },
+  {
+    "institution": "Eckerd College",
+    "area": "Computer Science / French",
+    "studyType": "Bachelor's of Arts",
+    "startDate": "1999-08-15",
+    "endDate": "2003-05-15",
+    "gpa": "",
+    "courses": []
+  }
+  ],
+  "awards": [],
+  "publications": [{
+    "name": "Learning HTML5 Game Programming",
+    "publisher": "Addison-Wesley Professional",
+    "releaseDate": "2011-09-14",
+    "website": "http://www.amazon.com/Learning-HTML5-Game-Programming-Hands/dp/0321767365",
+    "summary": ""
+  }],
+  "skills": [],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "French",
+      "fluency": "Conversational"
+    }
+  ],
+  "interests": [],
+  "references": []
+}
